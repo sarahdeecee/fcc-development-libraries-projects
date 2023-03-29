@@ -13,18 +13,36 @@ Projects for freeCodeCamp's [Front End Development Libraries certification](http
 ## Projects
 ### Build a Random Quote Machine
 - [GitHub link](https://github.com/sarahdeecee/fcc-development-libraries-projects/tree/main/01-random-quote-machine)
-- [CodePen.io link](https://codepen.io/s_dc/pen/oNEdbBJ)
+- [Deployment link](https://codepen.io/s_dc/full/oNEdbBJ)
 - [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
 - Stack: JavaScript, React, HTML, CSS, Material UI
 - Quotes provided by [Animechan](https://animechan.vercel.app/)
 
 ### Build a Markdown Previewer
+- [GitHub link](https://github.com/sarahdeecee/fcc-development-libraries-projects/tree/main/02-markdown-previewer)
+- [Deployment link](https://codepen.io/s_dc/full/rNJqMvx)
+- [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-markdown-previewer)
+- Stack: JavaScript, React, HTML, CSS, SASS
 
 ### Build a Drum Machine
+- [GitHub link](https://github.com/sarahdeecee/fcc-development-libraries-projects/tree/main/02-markdown-previewer)
+- [Deployment link](https://codepen.io/s_dc/full/KKQGvLK)
+- [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-drum-machine)
+- Stack: JavaScript, React, HTML, CSS, SASS, Material UI
 
 ### Build a JavaScript Calculator
+- [GitHub link](https://github.com/sarahdeecee/fcc-calculator)
+- [Deployment link](https://sdc-fcc-calculator.onrender.com/)
+- [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-javascript-calculator)
+- Stack: JavaScript, React, HTML, CSS, React-Bootstrap
 
 ### Build a 25 + 5 Clock
+- [GitHub link](https://github.com/sarahdeecee/fcc-pomodoro)
+- [Deployment link](https://fcc-pomodoro-2mkn.onrender.com/)
+- [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
+- Stack: JavaScript, React, TypeScript, HTML, CSS, Material UI
 
 ## Certification
-- Coming
+- [Certificate link](https://www.freecodecamp.org/certification/sdc/front-end-development-libraries)
+
+![Certification image](./images/fcc-front-end-development-libraries-certification.png)

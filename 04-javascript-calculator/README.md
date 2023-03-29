@@ -1,10 +1,6 @@
 # Project 4 - Build a JavaScript Calculator
 
 ## About
-This application shows a live preview of markdown written in the textarea.
-Features light and dark modes and horizontal or vertical viewing.
-![Screenshot in horizontal and light mode](./public/horizontal-light.png)
-![Screenshot in vertical and dark mode](./public/vertical-dark.png)
 
 ## Instructions
 Create a CodePen.io app that passes all tests and fulfills the listed user stories.
