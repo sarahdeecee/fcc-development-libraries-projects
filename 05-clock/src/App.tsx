@@ -83,6 +83,9 @@ function App() {
     if (play) {
       const timer = setTimeout(() => {
         setTimeLeft(calculateTimeLeft(timeLeft));
+        if (timeLeft.minutes === 0 && timeLeft.seconds === 0) {
+          handleTimerDone();
+        }
       }, 1000);
       return () => clearInterval(timer);
     }
