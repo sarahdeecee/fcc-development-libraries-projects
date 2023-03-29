@@ -1,6 +1,8 @@
 # Project 5 - Build a 25 + 5 Clock
 
 ## About
+This application is based on the Pomodoro Technique which is a time management technique breaking work into sessions and breaks.
+One goal of this project was to practice TypeScript.
 
 ## Instructions
 Create a CodePen.io app that passes all tests and fulfills the listed user stories.
@@ -34,7 +36,7 @@ Use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery 
 | #15 | When I click the element with the id of `session-increment`, the value within `id="session-length"` increments by a value of 1, and I can see the updated value. |
 | #16 | I should not be able to set a session or break length to <= 0. |
 | #17 | I should not be able to set a session or break length to > 60. |
-| #18 | When I first click the element with `id="start_stop", the` timer should begin running from the value currently displayed in `id="session-length",` even if the value has been incremented or decremented from the original value of 25. |
+| #18 | When I first click the element with `id="start_stop"`, the timer should begin running from the value currently displayed in `id="session-length",` even if the value has been incremented or decremented from the original value of 25. |
 | #19 | If the timer is running, the element with the id of `time-left` should display the remaining time in `mm:ss` format (decrementing by a value of 1 and updating the display every 1000ms). |
 | #20 | If the timer is running and I click the element with `id="start_stop"`, the countdown should pause. |
 | #21 | If the timer is paused and I click the element with `id="start_stop"`, the countdown should resume running from the point at which it was paused. |
@@ -47,5 +49,5 @@ Use any mix of HTML, JavaScript, CSS, Bootstrap, SASS, React, Redux, and jQuery 
 | #28 | The audio element with id of `beep` must stop playing and be rewound to the beginning when the element with the id of `reset` is clicked. |
 
 ## Reference:
-- [Deployment link]()
+- [Deployment link](https://fcc-pomodoro-2mkn.onrender.com)
 - [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
