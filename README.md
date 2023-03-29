@@ -9,6 +9,7 @@ Projects for freeCodeCamp's [Front End Development Libraries certification](http
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Projects
 ### Build a Random Quote Machine
@@ -37,8 +38,8 @@ Projects for freeCodeCamp's [Front End Development Libraries certification](http
 - Stack: JavaScript, React, HTML, CSS, React-Bootstrap
 
 ### Build a 25 + 5 Clock
-- [GitHub link](https://github.com/sarahdeecee/fcc-pomodoro)
-- [Deployment link](https://fcc-pomodoro-2mkn.onrender.com/)
+- [GitHub link](https://github.com/sarahdeecee/fcc-development-libraries-projects/tree/main/05-clock)
+- [Deployment link](https://fcc-pomodoro-sdc.onrender.com/)
 - [Original instructions](https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 - Stack: JavaScript, React, TypeScript, HTML, CSS, Material UI
 
