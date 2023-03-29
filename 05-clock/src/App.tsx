@@ -95,7 +95,6 @@ function App() {
   useEffect(() => {
     if (timeLeft.minutes === 0 && timeLeft.seconds === 0) {
       playAlarmSound()
-      handleTimerDone();
     }
   }, [timeLeft]);
 
